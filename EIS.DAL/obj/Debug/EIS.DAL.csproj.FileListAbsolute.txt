@@ -1,0 +1,16 @@
+C:\Users\Emma\Desktop\ProgrammingStuff\AngularJSLiveProject\EmployeeInformationSystem\EmployeeInformationSystem\EIS.DAL\bin\Debug\EIS.DAL.dll.config
+C:\Users\Emma\Desktop\ProgrammingStuff\AngularJSLiveProject\EmployeeInformationSystem\EmployeeInformationSystem\EIS.DAL\bin\Debug\EIS.DAL.dll
+C:\Users\Emma\Desktop\ProgrammingStuff\AngularJSLiveProject\EmployeeInformationSystem\EmployeeInformationSystem\EIS.DAL\bin\Debug\EIS.DAL.pdb
+C:\Users\Emma\Desktop\ProgrammingStuff\AngularJSLiveProject\EmployeeInformationSystem\EmployeeInformationSystem\EIS.DAL\bin\Debug\EIS.BOL.dll
+C:\Users\Emma\Desktop\ProgrammingStuff\AngularJSLiveProject\EmployeeInformationSystem\EmployeeInformationSystem\EIS.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Emma\Desktop\ProgrammingStuff\AngularJSLiveProject\EmployeeInformationSystem\EmployeeInformationSystem\EIS.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Emma\Desktop\ProgrammingStuff\AngularJSLiveProject\EmployeeInformationSystem\EmployeeInformationSystem\EIS.DAL\bin\Debug\EIS.BOL.pdb
+C:\Users\Emma\Desktop\ProgrammingStuff\AngularJSLiveProject\EmployeeInformationSystem\EmployeeInformationSystem\EIS.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Emma\Desktop\ProgrammingStuff\AngularJSLiveProject\EmployeeInformationSystem\EmployeeInformationSystem\EIS.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Emma\Desktop\ProgrammingStuff\AngularJSLiveProject\EmployeeInformationSystem\EmployeeInformationSystem\EIS.DAL\obj\Debug\EIS.DAL.csprojAssemblyReference.cache
+C:\Users\Emma\Desktop\ProgrammingStuff\AngularJSLiveProject\EmployeeInformationSystem\EmployeeInformationSystem\EIS.DAL\obj\Debug\EIS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Emma\Desktop\ProgrammingStuff\AngularJSLiveProject\EmployeeInformationSystem\EmployeeInformationSystem\EIS.DAL\obj\Debug\EIS.DAL.csproj.CopyComplete
+C:\Users\Emma\Desktop\ProgrammingStuff\AngularJSLiveProject\EmployeeInformationSystem\EmployeeInformationSystem\EIS.DAL\obj\Debug\EIS.DAL.dll
+C:\Users\Emma\Desktop\ProgrammingStuff\AngularJSLiveProject\EmployeeInformationSystem\EmployeeInformationSystem\EIS.DAL\obj\Debug\EIS.DAL.pdb
+C:\Users\Emma\Desktop\ProgrammingStuff\AngularJSLiveProject\EmployeeInformationSystem\EmployeeInformationSystem\EIS.DAL\obj\Debug\EIS.DAL.Migrations.InitialCreate.resources
+C:\Users\Emma\Desktop\ProgrammingStuff\AngularJSLiveProject\EmployeeInformationSystem\EmployeeInformationSystem\EIS.DAL\obj\Debug\EIS.DAL.csproj.GenerateResource.cache

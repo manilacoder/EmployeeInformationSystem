@@ -1,0 +1,17 @@
+C:\Users\Emma\Desktop\ProgrammingStuff\AngularJSLiveProject\EmployeeInformationSystem\EmployeeInformationSystem\EIS.ConsoleUI\bin\Debug\EIS.ConsoleUI.exe.config
+C:\Users\Emma\Desktop\ProgrammingStuff\AngularJSLiveProject\EmployeeInformationSystem\EmployeeInformationSystem\EIS.ConsoleUI\bin\Debug\EIS.ConsoleUI.exe
+C:\Users\Emma\Desktop\ProgrammingStuff\AngularJSLiveProject\EmployeeInformationSystem\EmployeeInformationSystem\EIS.ConsoleUI\bin\Debug\EIS.ConsoleUI.pdb
+C:\Users\Emma\Desktop\ProgrammingStuff\AngularJSLiveProject\EmployeeInformationSystem\EmployeeInformationSystem\EIS.ConsoleUI\bin\Debug\EIS.BOL.dll
+C:\Users\Emma\Desktop\ProgrammingStuff\AngularJSLiveProject\EmployeeInformationSystem\EmployeeInformationSystem\EIS.ConsoleUI\bin\Debug\EIS.DAL.dll
+C:\Users\Emma\Desktop\ProgrammingStuff\AngularJSLiveProject\EmployeeInformationSystem\EmployeeInformationSystem\EIS.ConsoleUI\bin\Debug\EntityFramework.dll
+C:\Users\Emma\Desktop\ProgrammingStuff\AngularJSLiveProject\EmployeeInformationSystem\EmployeeInformationSystem\EIS.ConsoleUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Emma\Desktop\ProgrammingStuff\AngularJSLiveProject\EmployeeInformationSystem\EmployeeInformationSystem\EIS.ConsoleUI\bin\Debug\EIS.BOL.pdb
+C:\Users\Emma\Desktop\ProgrammingStuff\AngularJSLiveProject\EmployeeInformationSystem\EmployeeInformationSystem\EIS.ConsoleUI\bin\Debug\EIS.DAL.pdb
+C:\Users\Emma\Desktop\ProgrammingStuff\AngularJSLiveProject\EmployeeInformationSystem\EmployeeInformationSystem\EIS.ConsoleUI\bin\Debug\EIS.DAL.dll.config
+C:\Users\Emma\Desktop\ProgrammingStuff\AngularJSLiveProject\EmployeeInformationSystem\EmployeeInformationSystem\EIS.ConsoleUI\bin\Debug\EntityFramework.xml
+C:\Users\Emma\Desktop\ProgrammingStuff\AngularJSLiveProject\EmployeeInformationSystem\EmployeeInformationSystem\EIS.ConsoleUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Emma\Desktop\ProgrammingStuff\AngularJSLiveProject\EmployeeInformationSystem\EmployeeInformationSystem\EIS.ConsoleUI\obj\Debug\EIS.ConsoleUI.csprojAssemblyReference.cache
+C:\Users\Emma\Desktop\ProgrammingStuff\AngularJSLiveProject\EmployeeInformationSystem\EmployeeInformationSystem\EIS.ConsoleUI\obj\Debug\EIS.ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Emma\Desktop\ProgrammingStuff\AngularJSLiveProject\EmployeeInformationSystem\EmployeeInformationSystem\EIS.ConsoleUI\obj\Debug\EIS.ConsoleUI.csproj.CopyComplete
+C:\Users\Emma\Desktop\ProgrammingStuff\AngularJSLiveProject\EmployeeInformationSystem\EmployeeInformationSystem\EIS.ConsoleUI\obj\Debug\EIS.ConsoleUI.exe
+C:\Users\Emma\Desktop\ProgrammingStuff\AngularJSLiveProject\EmployeeInformationSystem\EmployeeInformationSystem\EIS.ConsoleUI\obj\Debug\EIS.ConsoleUI.pdb
