@@ -3,3 +3,9 @@ C:\Users\Emma\Desktop\ProgrammingStuff\AngularJSLiveProject\EmployeeInformationS
 C:\Users\Emma\Desktop\ProgrammingStuff\AngularJSLiveProject\EmployeeInformationSystem\EmployeeInformationSystem\EIS.BOL\obj\Debug\EIS.BOL.csproj.CoreCompileInputs.cache
 C:\Users\Emma\Desktop\ProgrammingStuff\AngularJSLiveProject\EmployeeInformationSystem\EmployeeInformationSystem\EIS.BOL\obj\Debug\EIS.BOL.dll
 C:\Users\Emma\Desktop\ProgrammingStuff\AngularJSLiveProject\EmployeeInformationSystem\EmployeeInformationSystem\EIS.BOL\obj\Debug\EIS.BOL.pdb
+C:\Users\Emma\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformationSystem\EIS.BOL\bin\Debug\EIS.BOL.dll
+C:\Users\Emma\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformationSystem\EIS.BOL\bin\Debug\EIS.BOL.pdb
+C:\Users\Emma\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformationSystem\EIS.BOL\obj\Debug\EIS.BOL.csprojAssemblyReference.cache
+C:\Users\Emma\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformationSystem\EIS.BOL\obj\Debug\EIS.BOL.csproj.CoreCompileInputs.cache
+C:\Users\Emma\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformationSystem\EIS.BOL\obj\Debug\EIS.BOL.dll
+C:\Users\Emma\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformationSystem\EIS.BOL\obj\Debug\EIS.BOL.pdb

@@ -16,7 +16,6 @@ namespace EIS.BOL
         public int RoleId { get; set; }
         public string RoleName { get; set; }
         public string RoleCode { get; set; }
-        public string RoleDescription { get; set; }
 
         //Many employees per role
         public virtual IEnumerable<Employee> Employees { get; set; }
