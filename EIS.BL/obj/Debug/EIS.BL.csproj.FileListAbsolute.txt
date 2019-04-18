@@ -1,0 +1,14 @@
+C:\Users\Emma\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformationSystem\EIS.BL\bin\Debug\EIS.BL.dll
+C:\Users\Emma\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformationSystem\EIS.BL\bin\Debug\EIS.BL.pdb
+C:\Users\Emma\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformationSystem\EIS.BL\bin\Debug\EIS.BOL.dll
+C:\Users\Emma\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformationSystem\EIS.BL\bin\Debug\EIS.DAL.dll
+C:\Users\Emma\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformationSystem\EIS.BL\bin\Debug\EntityFramework.dll
+C:\Users\Emma\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformationSystem\EIS.BL\bin\Debug\EIS.BOL.pdb
+C:\Users\Emma\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformationSystem\EIS.BL\bin\Debug\EIS.DAL.pdb
+C:\Users\Emma\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformationSystem\EIS.BL\bin\Debug\EIS.DAL.dll.config
+C:\Users\Emma\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformationSystem\EIS.BL\bin\Debug\EntityFramework.xml
+C:\Users\Emma\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformationSystem\EIS.BL\obj\Debug\EIS.BL.csprojAssemblyReference.cache
+C:\Users\Emma\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformationSystem\EIS.BL\obj\Debug\EIS.BL.csproj.CoreCompileInputs.cache
+C:\Users\Emma\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformationSystem\EIS.BL\obj\Debug\EIS.BL.csproj.CopyComplete
+C:\Users\Emma\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformationSystem\EIS.BL\obj\Debug\EIS.BL.dll
+C:\Users\Emma\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformationSystem\EIS.BL\obj\Debug\EIS.BL.pdb

@@ -32,3 +32,5 @@ C:\Users\Emma\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\Employ
 C:\Users\Emma\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformationSystem\EIS.ConsoleUI\obj\Debug\EIS.ConsoleUI.csproj.CopyComplete
 C:\Users\Emma\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformationSystem\EIS.ConsoleUI\obj\Debug\EIS.ConsoleUI.exe
 C:\Users\Emma\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformationSystem\EIS.ConsoleUI\obj\Debug\EIS.ConsoleUI.pdb
+C:\Users\Emma\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformationSystem\EIS.ConsoleUI\bin\Debug\EIS.BL.dll
+C:\Users\Emma\Desktop\EmployeeInformationSystem\EmployeeInformationSystem\EmployeeInformationSystem\EIS.ConsoleUI\bin\Debug\EIS.BL.pdb

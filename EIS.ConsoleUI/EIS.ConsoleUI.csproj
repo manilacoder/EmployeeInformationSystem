@@ -56,13 +56,13 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\EIS.BL\EIS.BL.csproj">
+      <Project>{e1964f79-ee11-4267-b0de-c57fd208d488}</Project>
+      <Name>EIS.BL</Name>
+    </ProjectReference>
     <ProjectReference Include="..\EIS.BOL\EIS.BOL.csproj">
       <Project>{ae65476b-4922-4052-bb8a-60bb05f1b998}</Project>
       <Name>EIS.BOL</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\EIS.DAL\EIS.DAL.csproj">
-      <Project>{8aed7f91-ce68-4091-9908-12bcc8b93b8f}</Project>
-      <Name>EIS.DAL</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
