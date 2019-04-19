@@ -14,7 +14,7 @@ namespace EIS.DAL
         {
             return db.Employees.ToList();
         }
-        public Employee GetByID(int Id)
+        public Employee GetByID(string Id)
         {
             return db.Employees.Find(Id);
         }
@@ -23,7 +23,7 @@ namespace EIS.DAL
             db.Employees.Add(emp);
             Save();
         }
-        public void Delete(int Id)
+        public void Delete(string Id)
         {
             Employee emp = db.Employees.Find(Id);
             db.Employees.Remove(emp);

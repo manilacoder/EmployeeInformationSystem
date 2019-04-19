@@ -22,7 +22,7 @@ namespace EIS.BL
         {
             return ObjDb.GetAll();
         }
-        public Employee GetByID(int Id)
+        public Employee GetByID(string Id)
         {
             return ObjDb.GetByID(Id);
         }
@@ -38,7 +38,7 @@ namespace EIS.BL
                 return false;
             }
         }
-        public void Delete(int Id)
+        public void Delete(string Id)
         {
             ObjDb.Delete(Id);
         }
